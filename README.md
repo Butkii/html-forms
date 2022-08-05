@@ -2,4 +2,4 @@
 
 Project using HTML and CSS to practice forms
 
-Image credts- 
+Image taken from Unsplash
